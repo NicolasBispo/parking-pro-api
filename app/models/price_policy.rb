@@ -1,0 +1,2 @@
+class PricePolicy < ApplicationRecord
+end
